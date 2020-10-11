@@ -1,0 +1,24 @@
+completed: false
+correctAnswers: {
+    5f81bd5cdcd5ee0004fe37b5: 2,
+    5f6bb79b97518f0bc82e4239: 0,
+    5f6bb58597518f0bc82e4231: 3,…
+}
+5f6bb8cbd8d2fe3bf4028283: 0
+5f6bb9b3381b613e202fc797: 1
+5f6bb79b97518f0bc82e4239: 0
+5f6bb90f309505421cde9ea5: 0
+5f6bb94ac5837e328c736cf5: 0
+5f6bb58597518f0bc82e4231: 3
+5f81bbdedcd5ee0004fe3793: 2
+5f81bd5cdcd5ee0004fe37b5: 2
+5f81bef6dcd5ee0004fe37cc: 2
+5f81bf8ddcd5ee0004fe37d8: 2
+questions: [
+    {_id: "5f81bd5cdcd5ee0004fe37b5",…
+    },…
+]
+score: 0
+startedAt: "2020-10-11T15:17:51.115Z"
+__v: 0
+_id: "5f83221fa6b3df0004e9938a"
