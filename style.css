@@ -33,7 +33,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 #course-name {
